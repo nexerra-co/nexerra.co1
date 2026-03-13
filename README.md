@@ -13,6 +13,7 @@ Founder of Nexerra.co | Blending creative storytelling with tech-driven solution
 - Vulcan Prep 360 investor-ready documentation
 - Branding for Vanjerkate English Medium School
 - E-alert security sytem
+- restaurant website 
 
 ## 📫 Connect
 - [Website]
